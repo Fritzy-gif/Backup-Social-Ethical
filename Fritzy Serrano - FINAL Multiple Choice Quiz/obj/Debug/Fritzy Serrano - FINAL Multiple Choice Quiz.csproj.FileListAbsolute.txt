@@ -1,0 +1,16 @@
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe.config
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.pdb
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.csprojAssemblyReference.cache
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.Properties.Resources.resources
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.csproj.GenerateResource.cache
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.csproj.CoreCompileInputs.cache
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.pdb
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe.manifest
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.application
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe.manifest
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.application
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.openingScreen.resources
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.Instructions.resources
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.Quiz.resources
